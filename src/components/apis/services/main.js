@@ -4,7 +4,7 @@ import Constant from "../constants";
 export const mainWrapper = {
     get,
     post,
-    put
+    put,
 };
 
 async function get(url, params = null) {
