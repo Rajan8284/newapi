@@ -6,11 +6,11 @@ import Axiosput from  './components/Axiosput'
 function App() {
   return (
     <div className="App">
-      {/* <Axiospost/> */}
+      <Axiospost/>
       <br/>
-      {/* <Axiosget/> */}
-
       <Axiosput/>
+      <br/>
+      <Axiosget/>
     </div>
   );
 }

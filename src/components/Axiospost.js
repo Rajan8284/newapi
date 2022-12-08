@@ -74,7 +74,7 @@ const Axiospost = () => {
                     </p>
                 ) : null}
                 <br />
-                <button type="submit">Submit</button>
+                <button type="submit">PostData</button>
             </form>
         </div>
     )
